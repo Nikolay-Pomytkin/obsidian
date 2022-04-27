@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "dba1aedf4ebaad37",
+    "type": "split",
+    "children": [
+      {
+        "id": "c43376737adaae92",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Experiences.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "83e7865d1fbd30dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Experiences.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cd406edd65ae033",
+    "type": "split",
+    "children": [
+      {
+        "id": "97bd2bf7d2707e3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde2b2a45c8d0c29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f71b4335edb74ff3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eb237a2735cef606",
+    "type": "split",
+    "children": [
+      {
+        "id": "e510e3ad30cb3bf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d5283eab07d0376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Experiences.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c43376737adaae92",
+  "lastOpenFiles": [
+    "Experiences.md",
+    "Nikolay Pomytkin.md"
+  ]
+}
